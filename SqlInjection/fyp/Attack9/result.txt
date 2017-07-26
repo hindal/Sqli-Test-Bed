@@ -1,0 +1,26 @@
+User Name:'xcxc'
+New Password:xx
+User Name:'xcxc'
+New Password:xx
+User Name:''
+New Password:
+User Name:''
+New Password:
+User Name:'admin\' or 1=1 #'
+New Password:sAS
+User Name:'asdasd'
+New Password:asdasd
+User Name:'admin\' or 1=1 #'
+New Password:asdasd
+User Name:'asdasd'
+New Password:asdasd
+User Name:'admin\" or 1=1 #'
+New Password:admin" or 1=1 #
+User Name:'x\\zcxc'
+New Password:asdasd
+User Name:'asdadasd'
+New Password:asdasd
+User Name:'asdasd'
+New Password:asdasd
+User Name:'asd'
+New Password:asd
